@@ -1,0 +1,14 @@
+{
+  "rules": {
+    "chats": {
+      ".indexOn": ["jobId", "seekerId", "companyId"],
+      ".read": "auth != null",
+      "$chatId": {
+        ".write": "auth != null",
+        "messages": {
+          ".indexOn": ["time"]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "cmake.ignoreCMakeListsMissing": true,
+    // Prevent VS Code YAML extension from fetching schemas from schemastore.org
+    "yaml.schemaStore.enable": false,
+    // Keep local YAML validation enabled
+    "yaml.validate": true,
+    // Explicitly avoid mapping pubspec.yaml to a remote schema
+    "yaml.schemas": {}
+}

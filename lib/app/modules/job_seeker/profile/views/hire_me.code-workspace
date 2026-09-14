@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "hire_me",
+			"path": "../../../../.."
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}

@@ -1,0 +1,29 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "hireme-a59e6",
+          "appId": "1:429003921296:android:470f4323f1f97e7eeb8515",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "hireme-a59e6",
+          "configurations": {
+            "android": "1:429003921296:android:470f4323f1f97e7eeb8515",
+            "ios": "1:429003921296:ios:0ba10ef27ea8b118eb8515"
+          }
+        }
+      }
+    }
+  },
+  "database": {
+    "rules": "database.rules.json"
+  },
+  "functions": {
+    "source": "functions",
+    "runtime": "nodejs20"
+  }
+}

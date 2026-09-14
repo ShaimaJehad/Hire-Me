@@ -1,0 +1,37 @@
+{
+    "$schema": "https://opencode.ai/config.json",
+    "skills": {
+        "paths": [
+            "hireme_skills"
+        ]
+    },
+    "permission": {
+        "edit": {
+            "*": "ask",
+            "lib/firebase_options.dart": "deny",
+            "android/app/google-services.json": "deny",
+            ".env": "deny"
+        },
+        "bash": {
+            "*": "ask",
+            "git status": "allow",
+            "git diff *": "allow",
+            "git log *": "allow",
+            "flutter analyze": "allow",
+            "flutter pub get": "allow",
+            "flutter test *": "allow",
+            "flutter test": "allow",
+            "grep *": "allow",
+            "find *": "allow",
+            "cat *": "allow",
+            "rm *": "deny",
+            "git push *": "ask",
+            "git commit *": "ask"
+        },
+        "write": {
+            "*": "ask",
+            ".env": "deny",
+            "android/app/google-services.json": "deny"
+        }
+    }
+}
