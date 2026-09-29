@@ -173,11 +173,7 @@ flutter run
 
 
 ## Screenshots
-<img width="1600" height="1200" alt="WhatsApp Image 2026-09-15 at 2 50 33 PM" src="https://github.com/user-attachments/assets/9ebb83ce-378e-42e1-9b5f-02ccd2f9a7ad" />
-![Uploading WhatsApp Image 2026-09-28 at 1.45.50 PM.jpeg…]()
-![Uploading WhatsApp Image 2026-09-16 at 9.50.23 AM.jpeg…]()
-![Uploading ChatGPT Image 16 يونيو 2026، 08_32_31 ص.png…]()
-![Uploading 1 1.png…]()
+
 ![Uploading WhatsApp Image 2026-09-15 at 2.50.33 PM.jpeg…]()
 
 
