@@ -1,5 +1,3 @@
-![Uploading ChatGPT Image 16 يونيو 2026، 08_32_31 ص.png…]()
-<img width="900" height="1600" alt="WhatsApp Image 2026-09-28 at 1 45 50 PM" src="https://github.com/user-attachments/assets/1be9cc70-ce12-4086-b23f-691b0f05518b" />
 # HireMe
 
 A Flutter-based recruitment platform connecting job seekers with companies.
